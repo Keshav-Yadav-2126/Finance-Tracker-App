@@ -1,6 +1,6 @@
 # 💰 Personal Finance Tracker
 
-A modern and responsive frontend-only **Finance Tracker App** built with **React.js**, designed to help users manage their income and expenses efficiently. This project showcases practical use of authentication, state management, data visualization, and user-friendly forms.
+A frontend-only React.js application to manage income and expenses with simulated authentication, form validation using Zod, state management with Zustand, data filtering, and dynamic charts via Chart.js. Deployed on Netlify.
 
 ## 🚀 Live Demo
 
