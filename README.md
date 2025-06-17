@@ -1,6 +1,6 @@
 # 💰 Personal Finance Tracker
 
-A frontend-only React.js application to manage income and expenses with simulated authentication (JWT + localStorage), form validation using Zod, state management with Zustand, data filtering, and dynamic charts via Chart.js. Deployed on Netlify.
+A frontend-only React.js application to manage income and expenses with simulated authentication, form validation using Zod, state management with Zustand, data filtering, and dynamic charts via Chart.js. Deployed on Netlify.
 
 ## 🚀 Live Demo
 
